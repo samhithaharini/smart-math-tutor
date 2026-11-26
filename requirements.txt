@@ -1,0 +1,18 @@
+# Core Agent & LLM (LangChain + Gemini)
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-google-genai>=2.1.0
+
+# MCP (Model Context Protocol) Server & LangChain Adapter
+mcp>=1.6.0
+langchain-mcp-adapters>=0.1.0
+
+# Local RAG (Chroma Vector Store + Local HuggingFace Embeddings)
+langchain-chroma>=1.0.0
+chromadb>=1.0.0
+langchain-huggingface>=1.0.0
+sentence-transformers>=3.0.0
+
+# Environment & Web UI
+python-dotenv>=1.0.0
+streamlit>=1.40.0

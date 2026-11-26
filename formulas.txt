@@ -1,0 +1,19 @@
+Vishal's Constant (Custom Demo Constant)
+Formula: Vishal's Constant (V_c) = 42
+Description: A custom fictional constant used to verify that Retrieval-Augmented Generation (RAG) is reading from this local file instead of relying on the LLM's pre-trained memory.
+
+Kinetic Energy Formula (Physics)
+Formula: KE = 0.5 * m * v^2
+Description: Kinetic energy equals one-half times mass (m in kg) times velocity (v in m/s) squared.
+
+Ohm's Law (Electrical Engineering)
+Formula: V = I * R
+Description: Voltage (V in volts) equals electric current (I in amperes) multiplied by electrical resistance (R in ohms).
+
+Compound Interest Formula (Finance Math)
+Formula: A = P * (1 + r / n)^(n * t)
+Description: Final amount (A) equals principal (P) multiplied by (1 + annual interest rate r / compounding periods per year n) raised to the power of (n * years t).
+
+Quadratic Formula (Algebra)
+Formula: x = (-b +/- sqrt(b^2 - 4*a*c)) / (2*a)
+Description: Finds the roots x of a quadratic equation ax^2 + bx + c = 0, where a != 0.
